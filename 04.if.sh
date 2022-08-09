@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+
 
 if [abc == ABC]
 then
